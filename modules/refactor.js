@@ -47,7 +47,7 @@ define(function (require, exports, module) {
             'Rename',
             '<input style="margin-bottom:-18px;" type="text" id="renameInput" />',
             [
-                { className: 'Primary', id: Strings.renameOk, text: 'Ok' },
+                { className: 'primary', id: Strings.renameOk, text: 'Ok' },
                 { className: 'left', id: Strings.renameCancel, text: 'Cancel' }
             ],
             true
